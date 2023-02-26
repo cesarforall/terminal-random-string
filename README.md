@@ -16,7 +16,7 @@ npm install -g terminal-random-string
 
 # Contributing
 
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-msg](https://github.com/cesarforall/terminal-random-string)
+If someone wants to add or improve something, I invite you to collaborate directly in this repository: [terminal-random-string](https://github.com/cesarforall/terminal-random-string)
 
 # License
 
